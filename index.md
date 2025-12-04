@@ -2,7 +2,7 @@
   <img src="cais-logo.svg" alt="Center for AI Safety" width="200">
 </p>
 
-# AI Safety Social Resources (NeurIPS 2025)
+# AI Safety Resources (NeurIPS 2025)
 
 ## Job Board
 Many organizations are looking for ML researchers and other talent to work on safety-related projects. Find >100 open roles in [this table](https://airtable.com/appQwyPiYo4egdPR5/shr6n4WqjnmmoTpMf/tblIqJpqlW9yTCrXO) from Arkose.
